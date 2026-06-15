@@ -28,6 +28,8 @@ h1 {
     justify-content: center;
     align-items: center;
     font-size: 50px;
+    transition: transform 0.2s ease, background 0.2s ease;
+    box-sizing: border-box;
 }
 
 .cell:hover {
