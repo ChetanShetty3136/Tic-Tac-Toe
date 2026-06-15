@@ -33,7 +33,7 @@ h1 {
 .cell:hover {
     background: #131c29;
     justify-content: center;
-    transform: scale(3);
+    transform: scale(1.05);
 }
 
 #restartBtn {
